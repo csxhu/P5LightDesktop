@@ -1,0 +1,77 @@
+[
+  {
+    "File": "p5home-hotspot.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='11' versionName='0.4.5' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "C4C5E03B29F018A4081B4ABA16D0A861E959FDFFE6A457FE02BDDEC0B686FE48"
+  },
+  {
+    "File": "p5home-label-test.apk",
+    "Metadata": "package: name='com.local.g3home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "7E79747BF2736462351316B417E626415146C041BBF8DE8FCAA1D6D232A8520C"
+  },
+  {
+    "File": "p5home-music-fixed.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "F07B4ECB049BD78487CD107314A3C9A09D8240B1EF526FE6D1FF96CE98A97B54"
+  },
+  {
+    "File": "p5home-music.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "EF01C91CAD0154D70D10033C7E9029B100C10C5A5669FE25AC438DDA3EF8DC42"
+  },
+  {
+    "File": "p5home-native-toggle.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "F9BF7525B8FCC006D5EEE4CF93275DC5AA5C4A59A60BE3856B1F0D64F7E11795"
+  },
+  {
+    "File": "p5home-nav-fixed.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "F07B4ECB049BD78487CD107314A3C9A09D8240B1EF526FE6D1FF96CE98A97B54"
+  },
+  {
+    "File": "p5home-nav-voice.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "22E0B2A9BD74484FF70ECD7B221967ED4D83AC8DB63DA58A3D4BAB77A0BB523C"
+  },
+  {
+    "File": "p5home-nav.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "72F7C7C71DD58077BBBAB0794A9548C2CFE048F2E7AC59A89806D38FD7DBA544"
+  },
+  {
+    "File": "p5home-phone-music.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "8C7A00AFE4F8EE0173DF6B3A00505DF0EA9C25DE2FACE1B3744A4B27EA526624"
+  },
+  {
+    "File": "p5home-qa-flow.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "C274778D058BA43311ADB12EE8991FF98969DAF81D45E06F4675049892CE3582"
+  },
+  {
+    "File": "p5home-seven.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "78A9F907C0C8279D334F77B5B825ECDA167CA5683FF3739F4C89320E65255AA3"
+  },
+  {
+    "File": "p5home-six.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "1BA3D146DA1896F04089C4599D9C1FEE35297BAB7056B1A515CBC2277BD5C984"
+  },
+  {
+    "File": "p5home-tts-test.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "DDE4E8C0A26856192386BDE08A46AE5176517B82B7227C4160DE31F6BB4FB77D"
+  },
+  {
+    "File": "p5home-wake-test.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "D74E7A6ACB43FFE99AB1C062FEA719DE6AB2951C0DBDDC01A4E3BBDC25B8892F"
+  },
+  {
+    "File": "p5home.apk",
+    "Metadata": "package: name='com.local.p5home' versionCode='10' versionName='0.4.4' compileSdkVersion='34' compileSdkVersionCodename='14'",
+    "SHA256": "D74E7A6ACB43FFE99AB1C062FEA719DE6AB2951C0DBDDC01A4E3BBDC25B8892F"
+  }
+]

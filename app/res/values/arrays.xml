@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.xiaopeng.carspeechservice</item>
+        <item>com.luna.music.car</item>
+        <item>com.android.systemui</item>
+        <item>com.xiaopeng.drivingimageassist</item>
+        <item>com.xiaopeng.carcontrol</item>
+    </string-array>
+</resources>
